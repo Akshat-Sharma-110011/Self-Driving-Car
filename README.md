@@ -17,7 +17,7 @@ The dataset consists of images and driving logs collected from a self-driving ca
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-self-driving-car.git
+   git clone https://github.com/Akshat-Sharma-110011/advanced-self-driving-car.git
    cd advanced-self-driving-car
    ```
 2. Install dependencies:
